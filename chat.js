@@ -15,4 +15,4 @@ client.on('message', async message => {
   chatbot.getReply(content).then(r => message.channel.send(r))
 });
 
-client.login("NzQyNjMwMzY4ODYzMDYwMDY5.XzI6bQ.RLjrF5CptduhXvZg6JjGvPUcktg")
+client.login("NzMzODgxNzc4MzA0OTc0OTA5.XxJmqg.xB4D-Vmjbpoh0jwYaNwAfpXcdts")
